@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #211;
+    
+}
+.container1 ,.container2 ,.container3{
+    height: 20vh;
+    width: 20vw;
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
